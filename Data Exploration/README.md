@@ -1,2 +1,2 @@
-### Data Exploration using SQL
+# Data Exploration using SQL
 
