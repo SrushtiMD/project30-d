@@ -3,9 +3,9 @@
 In this project, we explored COVID-19 data to gain insights into the impact of the pandemic on different countries, continents, and the world as a whole. We used SQL queries to extract data from two tables, CovidDeaths and CovidVaccination, stored in a SQL Server Management Studio (SSMS) database.
 
 ### Data Sources
-..CovidDeaths: This table contains data related to COVID-19 cases and deaths, such as the total number of cases and deaths, new cases and deaths, location, and date.
+..* CovidDeaths: This table contains data related to COVID-19 cases and deaths, such as the total number of cases and deaths, new cases and deaths, location, and date.
 
-..CovidVaccination: This table contains data related to COVID-19 vaccinations, such as the total number of vaccinations, new vaccinations, location, and date.
+..* CovidVaccination: This table contains data related to COVID-19 vaccinations, such as the total number of vaccinations, new vaccinations, location, and date.
 
 ### Queries
 
